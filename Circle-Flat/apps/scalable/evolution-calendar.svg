@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,7 +40,7 @@
      id="namedview60"
      showgrid="false"
      inkscape:zoom="3.4766082"
-     inkscape:cx="-24.058247"
+     inkscape:cx="-23.482974"
      inkscape:cy="10.830428"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -131,11 +131,11 @@
        y="-12.647"
        rx="5.8730001"
        height="11.746"
-       style="fill:#ffdd55;fill-opacity:1;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect42"
        transform="scale(1,-1)" />
     <path
-       style="fill:#ffcc00;fill-rule:evenodd"
+       style="fill:#aa0000;fill-rule:evenodd"
        d="m 6.7495575,0.89799846 c -2.587218,0 -4.770587,1.64842904 -5.582665,3.95108004 l 11.1653295,0 C 11.520144,2.5464275 9.3367745,0.89799846 6.7495575,0.89799846 z"
        id="path18"
        inkscape:connector-curvature="0" />
@@ -157,5 +157,16 @@
          style="fill-opacity:0.39200003"
          id="g22-1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-size:3.95111132px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="4.545938"
+       y="9.0007296"
+       id="text3003"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3005"
+         x="4.545938"
+         y="9.0007296">21</tspan></text>
   </g>
 </svg>
