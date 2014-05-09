@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-desktop-locale.svg">
+   sodipodi:docname="system-config-printer.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -40,7 +40,7 @@
      id="namedview60"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="-1.1015057"
+     inkscape:cx="-0.74795231"
      inkscape:cy="1.9697975"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -143,21 +143,21 @@
        id="rect42" />
     <path
        style="fill:#f9f9f9;stroke:none"
-       d="m 3.6314343,2.6280281 0,4.233334 1.128889,0 0,-3.175 3.9511114,0 0,3.175 1.1288887,0 0,-4.233334 z"
+       d="m 4.0453593,3.1924725 0,3.6688898 0.9783706,0 0,-2.7516668 3.4242968,0 0,2.7516668 0.9783706,0 0,-3.6688898 z"
        id="rect3282"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccc" />
     <path
        inkscape:connector-curvature="0"
        style="fill:#f9f9f9;stroke:none"
-       d="m 2.5025403,5.7324731 0,4.233333 1.128889,0 0,-3.104444 6.2088891,0 0,3.104444 1.1288886,0 0,-4.233333 -8.4666667,0 z"
+       d="m 3.0669845,5.8829917 0,3.668889 0.9783706,0 0,-2.6905184 5.3810372,0 0,2.6905184 0.9783707,0 0,-3.668889 -7.3377785,0 z"
        id="rect3272" />
     <rect
        style="fill:#f9f9f9;stroke:none"
        id="rect3274"
-       width="4.5155568"
-       height="3.1044445"
-       x="4.4780993"
-       y="7.9902539" />
+       width="3.9134829"
+       height="2.6905189"
+       x="4.7791362"
+       y="7.839736" />
   </g>
 </svg>

@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="preferences-desktop-wallpaper.svg">
+   sodipodi:docname="preferences-system-notifications.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -40,7 +40,7 @@
      id="namedview60"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="-18.623359"
+     inkscape:cx="11.626641"
      inkscape:cy="10.118759"
      inkscape:window-x="0"
      inkscape:window-y="28"
@@ -185,7 +185,7 @@
        y="3.0804503"
        rx="1.3645469"
        height="2.7290938"
-       style="fill:#002255;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.07046047;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.07046047000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect42-1" />
     <path
        inkscape:connector-curvature="0"

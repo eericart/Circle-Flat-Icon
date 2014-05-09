@@ -40,9 +40,9 @@
      inkscape:window-height="716"
      id="namedview60"
      showgrid="false"
-     inkscape:zoom="39.333332"
-     inkscape:cx="29.280449"
-     inkscape:cy="30.251446"
+     inkscape:zoom="3.4766082"
+     inkscape:cx="62.92986"
+     inkscape:cy="-0.54430568"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -178,7 +178,7 @@
        y=".901"
        rx="5.873"
        height="11.746"
-       style="fill:#e6e6e6;stroke-width:0.02822222000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;fill-opacity:1"
+       style="fill:#b3b3b3;stroke-width:0.02822222000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke:none;stroke-opacity:1;fill-opacity:1"
        id="rect42" />
     <rect
        y="2.6537573"
@@ -196,7 +196,7 @@
        style="fill:none;stroke:none" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        d="m 5.9252931,2.653753 c -0.789708,4.65e-5 -1.5745905,0.325293 -2.1325845,0.8836665 -0.557994,0.5583735 -0.882426,1.3429935 -0.882426,2.132583 0,0.7895895 0.324432,1.5742095 0.882426,2.1325845 0.557994,0.5583735 1.3428765,0.88362 2.1325845,0.883665 0.7897065,4.8e-5 1.574496,-0.3252885 2.1332028,-0.883665 0.558706,-0.558378 0.884286,-1.342908 0.884286,-2.1325845 0,-0.7896765 -0.32558,-1.574205 -0.884286,-2.132583 C 7.4997891,2.9790415 6.7149996,2.653705 5.9252931,2.653753 z m 6.345e-4,1.2700005 c 0.9143835,-5.4e-5 1.746855,0.8318865 1.746855,1.746249 0,0.9143625 -0.832473,1.7463045 -1.74687,1.7462505 -0.914397,-5.4e-5 -1.7456295,-0.83199 -1.7456295,-1.7462505 0,-0.9142605 0.8312325,-1.746195 1.7456295,-1.746249 z"
        id="path3296" />
     <path
@@ -210,7 +210,7 @@
        style="fill:none;stroke:none"
        sodipodi:type="arc" />
     <rect
-       style="fill:#4d4d4d;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect3302"
        width="1.2700001"
        height="3.6693478"

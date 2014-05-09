@@ -13,7 +13,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="base.svg">
+   sodipodi:docname="preferences-system-power.svg">
   <metadata
      id="metadata62">
     <rdf:RDF>
@@ -39,9 +39,9 @@
      inkscape:window-height="716"
      id="namedview60"
      showgrid="false"
-     inkscape:zoom="6.9532165"
-     inkscape:cx="-1.0878278"
-     inkscape:cy="17.83635"
+     inkscape:zoom="4"
+     inkscape:cx="63.90686"
+     inkscape:cy="10.833064"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -144,30 +144,16 @@
        id="rect3764"
        width="2.8222222"
        height="1.0473459"
-       x="5.3672066"
+       x="5.3672071"
        y="1.9087223"
        rx="0.28222224"
        ry="0.28222224" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.02517349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3799"
-       width="4.1280093"
-       height="1.4923582"
-       x="4.7142506"
-       y="4.1347938" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.02517349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3799-3"
-       width="4.1280093"
-       height="1.4923582"
-       x="4.7142506"
-       y="6.3308249" />
-    <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.02517349;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect3799-0"
-       width="4.1280093"
-       height="1.4923582"
-       x="4.7142506"
-       y="8.4574938" />
+    <path
+       style="fill:#ffffff;stroke:none"
+       d="m 15.858126,22.455925 -0.125,14.937473 0.99816,0.541054 14.558189,-0.01072 c 1.472901,0.256001 1.108506,-1.005764 0.707107,-2.298097 0.980235,-5.754013 0.04557,-11.667601 0.06342,-17.501812 z"
+       id="path3023"
+       inkscape:connector-curvature="0"
+       transform="scale(0.28222223,0.28222223)"
+       sodipodi:nodetypes="ccccccc" />
   </g>
 </svg>
