@@ -13,7 +13,7 @@
    viewBox="0 0 13.546667 13.546667"
    id="svg2"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="file-manager.svg">
+   sodipodi:docname="thunar.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -27,9 +27,9 @@
      inkscape:window-height="716"
      id="namedview23"
      showgrid="false"
-     inkscape:zoom="2.4583334"
-     inkscape:cx="-96.125214"
-     inkscape:cy="-20.775793"
+     inkscape:zoom="9.8333336"
+     inkscape:cx="28.302042"
+     inkscape:cy="22.991538"
      inkscape:window-x="0"
      inkscape:window-y="28"
      inkscape:window-maximized="1"
@@ -106,19 +106,19 @@
        rx="0.79655176"
        ry="1.4408602" />
     <rect
-       style="fill:#784421;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#784421;fill-opacity:1;stroke:none"
        id="rect3760"
        width="0.57520723"
        height="2.4335682"
-       x="9.2409821"
-       y="10.534304"
+       x="6.4858961"
+       y="7.7264318"
        rx="0.15416662" />
     <rect
-       style="fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       style="opacity:0.5;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:none"
        id="rect2990"
        width="2.6548021"
        height="1.7698681"
-       x="8.2011824"
-       y="9.0741606" />
+       x="5.4460988"
+       y="5.8885655" />
   </g>
 </svg>

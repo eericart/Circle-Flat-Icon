@@ -7,7 +7,7 @@ Inherits=Flattr,Numix,gnome,hicolor
 Example=directory-x-normal
 
 # Directory list
-Directories=apps/scalable,apps/small,actions/symbolic,status/small,status/scalable
+Directories=apps/scalable,apps/small,actions/symbolic,status/small,status/scalable,places/scalable,places/small
 
 [actions/symbolic]
 Size=16
@@ -30,3 +30,10 @@ Type=Fixed
 Size=22
 Context=Status
 Type=Scalable
+
+[places/scalable]
+Size=48
+Context=Places
+Type=Scalable
+
+
